@@ -1,5 +1,3 @@
-# skybot
- 
 # Skyrock Radio Bot
 
 This bot plays the Skyrock radio stream in a Discord voice channel, and dynamically updates the bot's status with the current playing artist and song title based on Skyrock's metadata.
