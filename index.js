@@ -70,7 +70,7 @@ async function updateStatus() {
             
             setTimeout(() => {
                 client.user.setActivity(status, { type: ActivityType.Listening });
-            }, 20000); // 20 seconds delay
+            }, 20000);
         } else {
             client.user.setActivity("Skyrock", { type: ActivityType.Listening });
         }
